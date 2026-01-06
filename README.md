@@ -2,7 +2,8 @@
 
 - 📌 **YouTube Transcript API**  
 - 🔗 [**RapidAPI - YouTube Video Summarizer GPT AI**](https://rapidapi.com/rahilkhan224/api/youtube-video-summarizer-gpt-ai/playground/apiendpoint_92423465-6a0a-4355-a595-90014cd90a25)  
-- 📘 [**n8n Official Docs**](https://docs.n8n.io)  
+- 📘 [**n8n Official Docs**](https://docs.n8n.io)
+- 🔗 [**Video Tutorial**](https://www.youtube.com/watch?v=FGbD5hRUhBU)  
 
 ---
 
